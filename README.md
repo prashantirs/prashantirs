@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm Prashant Srivastava</h1>
-<h3 align="center">I'm a 3rd year student, at MITS , Gwalior. Currently Learning FULL STACK Development & I solve problem using C++ programming language</h3>
+<h3 align="center">I'm a 3rd year student, at MITS , Gwalior.FULL STACK Developer & I solve problem using C++ programming language</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantirs&label=Profile%20views&color=0e75b6&style=flat" alt="prashantirs" /> </p>
 
