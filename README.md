@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantirs&label=Profile%20views&color=0e75b6&style=flat" alt="prashantirs" /> </p>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 **REACT JS NODE JS**
 
 - 👨‍💻 All of my projects are available at [https://prashantirs.github.io/Prashant_Portfolio/](https://prashantirs.github.io/Prashant_Portfolio/)
 
